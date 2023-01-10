@@ -14,8 +14,8 @@ To write a program to find the LU Decomposition of a matrix.
 ##
 (ii)
 ##
-3. import numpy to perform array operations
-4. from scipy.linalg import lu_factor,lu_solve. And then assign one variable to lu_factor(A) ,other variable to lu_solve(first_variable,B)
+1. import numpy to perform array operations
+2. from scipy.linalg import lu_factor,lu_solve. And then assign one variable to lu_factor(A) ,other variable to lu_solve(first_variable,B)
   then print second variable
 
 ## Program:
